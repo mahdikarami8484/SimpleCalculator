@@ -39,7 +39,3 @@ It helped me take my first steps in creating interactive desktop applications.
 While the app itself is very simple, working on it was valuable for me.  
 It gave me confidence to start experimenting with Qt and showed me the basic structure of a GUI-based program.  
 I plan to build more advanced applications as I continue learning.
-
-## License
-
-This project is open-source and released under the MIT License.
